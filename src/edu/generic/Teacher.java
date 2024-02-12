@@ -5,6 +5,7 @@ import edu.hogwarts.data.EmpType;
 import java.time.LocalDate;
 
 public class Teacher extends Person {
+
     private EmpType employmentType;
     private LocalDate employmentStart;
     private LocalDate employmentEnd;
